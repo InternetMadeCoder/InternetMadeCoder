@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<h3 align="center">A student developer from India.</h3>
+<h3 align="center">I'm Gayathri, a student developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gattuwu&label=Profile%20views&color=0e75b6&style=flat" alt="gattuwu" /> </p>
 
